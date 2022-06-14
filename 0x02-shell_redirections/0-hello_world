@@ -1,2 +1,1 @@
-#!bin/bash
-echo -e "Hello, world"\
+less 0-hello_world
